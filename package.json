@@ -21,7 +21,7 @@
     "underscore"   :  "1.x.x",
     "express" :  "3.4.x",
     "express-persona" :  "0.1.x",
-    "gocardless"    :  "1.0.x",
+    "gocardless"    :  "1.0.0-beta6",
     "jugglingdb" :  "0.2.x",
     "jugglingdb-mongodb" :  "0.0.x",
     "swig" :  "1.2.x",
